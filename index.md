@@ -6,3 +6,5 @@
 const thisString = "Hello, World!";
 console.log(thisString);
 ```
+- [ ] Finish markdown module
+- [ ] Complete next module!
